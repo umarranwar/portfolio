@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/umarranwar/portfolio/static/css/main.cf2d15cf.css",
+    "main.js": "/umarranwar/portfolio/static/js/main.6ba82de7.js",
+    "static/media/hero.png": "/umarranwar/portfolio/static/media/hero.700695cea106816435e9.png",
+    "static/media/phone.gif": "/umarranwar/portfolio/static/media/phone.92799eed16279fb10f6b.gif",
+    "static/media/mountains.png": "/umarranwar/portfolio/static/media/mountains.6bceb498a0e1e0a70b47.png",
+    "static/media/people.png": "/umarranwar/portfolio/static/media/people.9625c416d3cb94519a8e.png",
+    "static/media/portfolio.webp": "/umarranwar/portfolio/static/media/portfolio.cd004955ed9bd4a2feed.webp",
+    "static/media/shopping-app.jpg": "/umarranwar/portfolio/static/media/shopping-app.c6c48a6e37b50d835517.jpg",
+    "static/media/ecommerce.jpg": "/umarranwar/portfolio/static/media/ecommerce.b8f3757fc8678a089b03.jpg",
+    "static/media/stars.png": "/umarranwar/portfolio/static/media/stars.a979f6ed7ad00c7ea0b2.png",
+    "static/media/css.png": "/umarranwar/portfolio/static/media/css.06fd7c840182a392a2b5.png",
+    "static/media/linkedin.png": "/umarranwar/portfolio/static/media/linkedin.c98fb3b64eecd80d2ca1.png",
+    "static/media/js.png": "/umarranwar/portfolio/static/media/js.ac9e504211b46cfb0118.png",
+    "static/media/github.png": "/umarranwar/portfolio/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/logo.png": "/umarranwar/portfolio/static/media/logo.5a6f8260bef8ce4bacad.png",
+    "static/media/html.png": "/umarranwar/portfolio/static/media/html.b757b1105a63ab582275.png",
+    "index.html": "/umarranwar/portfolio/index.html",
+    "main.cf2d15cf.css.map": "/umarranwar/portfolio/static/css/main.cf2d15cf.css.map",
+    "main.6ba82de7.js.map": "/umarranwar/portfolio/static/js/main.6ba82de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2d15cf.css",
+    "static/js/main.6ba82de7.js"
+  ]
+}
